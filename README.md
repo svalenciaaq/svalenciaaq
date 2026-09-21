@@ -44,5 +44,5 @@ Also worked with `Java` · `JavaScript` · `Dart`
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/svalenciaa) 
+[LinkedIn](https://www.linkedin.com/in/svalenciaa) 
 
